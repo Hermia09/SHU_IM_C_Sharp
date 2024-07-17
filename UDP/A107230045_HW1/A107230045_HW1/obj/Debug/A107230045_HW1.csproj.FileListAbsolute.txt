@@ -1,0 +1,17 @@
+C:\Users\sweet\Desktop\A107230045_HW1\A107230045_HW1\obj\Debug\A107230045_HW1.csprojAssemblyReference.cache
+C:\Users\sweet\Desktop\A107230045_HW1\A107230045_HW1\obj\Debug\A107230045_HW1.Form1.resources
+C:\Users\sweet\Desktop\A107230045_HW1\A107230045_HW1\obj\Debug\A107230045_HW1.Properties.Resources.resources
+C:\Users\sweet\Desktop\A107230045_HW1\A107230045_HW1\obj\Debug\A107230045_HW1.csproj.GenerateResource.cache
+C:\Users\sweet\Desktop\A107230045_HW1\A107230045_HW1\obj\Debug\A107230045_HW1.csproj.CoreCompileInputs.cache
+C:\Users\sweet\Desktop\A107230045_HW1\A107230045_HW1\bin\Debug\A107230045_HW1.exe.config
+C:\Users\sweet\Desktop\A107230045_HW1\A107230045_HW1\bin\Debug\A107230045_HW1.exe
+C:\Users\sweet\Desktop\A107230045_HW1\A107230045_HW1\bin\Debug\A107230045_HW1.pdb
+C:\Users\sweet\Desktop\A107230045_HW1\A107230045_HW1\obj\Debug\A107230045_HW1.exe
+C:\Users\sweet\Desktop\A107230045_HW1\A107230045_HW1\obj\Debug\A107230045_HW1.pdb
+Y:\A107230045_HW1\A107230045_HW1\obj\Debug\A107230045_HW1.csprojAssemblyReference.cache
+Y:\A107230045_HW1\A107230045_HW1\obj\Debug\A107230045_HW1.Form1.resources
+Y:\A107230045_HW1\A107230045_HW1\obj\Debug\A107230045_HW1.Properties.Resources.resources
+Y:\A107230045_HW1\A107230045_HW1\obj\Debug\A107230045_HW1.csproj.GenerateResource.cache
+Y:\A107230045_HW1\A107230045_HW1\obj\Debug\A107230045_HW1.csproj.CoreCompileInputs.cache
+Y:\A107230045_HW1\A107230045_HW1\obj\Debug\A107230045_HW1.exe
+Y:\A107230045_HW1\A107230045_HW1\obj\Debug\A107230045_HW1.pdb
