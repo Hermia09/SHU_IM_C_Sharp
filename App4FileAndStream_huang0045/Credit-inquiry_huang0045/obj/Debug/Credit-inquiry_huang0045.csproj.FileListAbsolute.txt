@@ -1,0 +1,16 @@
+E:\C#\W7_inClass\App4FileAndStream_huang0045\Credit-inquiry_huang0045\bin\Debug\Credit-inquiry_huang0045.exe.config
+E:\C#\W7_inClass\App4FileAndStream_huang0045\Credit-inquiry_huang0045\bin\Debug\Credit-inquiry_huang0045.exe
+E:\C#\W7_inClass\App4FileAndStream_huang0045\Credit-inquiry_huang0045\bin\Debug\Credit-inquiry_huang0045.pdb
+E:\C#\W7_inClass\App4FileAndStream_huang0045\Credit-inquiry_huang0045\bin\Debug\BankLibrary_huang0045.dll
+E:\C#\W7_inClass\App4FileAndStream_huang0045\Credit-inquiry_huang0045\bin\Debug\ClassLibrary_230045.dll
+E:\C#\W7_inClass\App4FileAndStream_huang0045\Credit-inquiry_huang0045\bin\Debug\ClassLibrary_230045.pdb
+E:\C#\W7_inClass\App4FileAndStream_huang0045\Credit-inquiry_huang0045\bin\Debug\ClassLibrary_230045.dll.config
+E:\C#\W7_inClass\App4FileAndStream_huang0045\Credit-inquiry_huang0045\bin\Debug\BankLibrary_huang0045.pdb
+E:\C#\W7_inClass\App4FileAndStream_huang0045\Credit-inquiry_huang0045\bin\Debug\BankLibrary_huang0045.dll.config
+E:\C#\W7_inClass\App4FileAndStream_huang0045\Credit-inquiry_huang0045\obj\Debug\Credit_inquiry_huang0045.CreditInquiryForm.resources
+E:\C#\W7_inClass\App4FileAndStream_huang0045\Credit-inquiry_huang0045\obj\Debug\Credit_inquiry_huang0045.Properties.Resources.resources
+E:\C#\W7_inClass\App4FileAndStream_huang0045\Credit-inquiry_huang0045\obj\Debug\Credit-inquiry_huang0045.csproj.GenerateResource.cache
+E:\C#\W7_inClass\App4FileAndStream_huang0045\Credit-inquiry_huang0045\obj\Debug\Credit-inquiry_huang0045.csproj.CoreCompileInputs.cache
+E:\C#\W7_inClass\App4FileAndStream_huang0045\Credit-inquiry_huang0045\obj\Debug\Credit-inquiry_huang0045.csproj.CopyComplete
+E:\C#\W7_inClass\App4FileAndStream_huang0045\Credit-inquiry_huang0045\obj\Debug\Credit-inquiry_huang0045.exe
+E:\C#\W7_inClass\App4FileAndStream_huang0045\Credit-inquiry_huang0045\obj\Debug\Credit-inquiry_huang0045.pdb

@@ -1,0 +1,4 @@
+E:\C#\W10_inClass\Generic_Hua0045\Generic_Hua0045\obj\Debug\Generic_Hua0045.csprojAssemblyReference.cache
+E:\C#\W10_inClass\Generic_Hua0045\Generic_Hua0045\obj\Debug\Generic_Hua0045.Properties.Resources.resources
+E:\C#\W10_inClass\Generic_Hua0045\Generic_Hua0045\obj\Debug\Generic_Hua0045.csproj.GenerateResource.cache
+E:\C#\W10_inClass\Generic_Hua0045\Generic_Hua0045\obj\Debug\Generic_Hua0045.csproj.CoreCompileInputs.cache

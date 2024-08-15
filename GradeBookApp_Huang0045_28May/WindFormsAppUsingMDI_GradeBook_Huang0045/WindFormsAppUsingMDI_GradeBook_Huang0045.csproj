@@ -1,0 +1,109 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{123D40AC-F40F-4E77-A3BE-49119A585660}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>WindFormsAppUsingMDI_GradeBook_Huang0045</RootNamespace>
+    <AssemblyName>WindFormsAppUsingMDI_GradeBook_Huang0045</AssemblyName>
+    <TargetFrameworkVersion>v4.7.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+    <Deterministic>true</Deterministic>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="FrmMDI4GradeBook.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="FrmMDI4GradeBook.Designer.cs">
+      <DependentUpon>FrmMDI4GradeBook.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="FrmMDI4GradeBook.resx">
+      <DependentUpon>FrmMDI4GradeBook.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\AnyBookUIForm4Basic_Huang0045\AnyBookUIForm4Basic_Huang0045.csproj">
+      <Project>{A0693415-532B-4E13-8280-1176055D3282}</Project>
+      <Name>AnyBookUIForm4Basic_Huang0045</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\ClassLibrary_Huang0045\ClassLibrary_Huang0045.csproj">
+      <Project>{d72cc3fe-d82d-45cb-89b9-0af12d7c93ec}</Project>
+      <Name>ClassLibrary_Huang0045</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\GradeLib_Huang0045\GradeLib_Huang0045.csproj">
+      <Project>{26b3a4eb-c52c-4d18-9b59-83d92efc1630}</Project>
+      <Name>GradeLib_Huang0045</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\MDIFormsBankApp_Hua0045\MDIForms4AnyBook_Huang0045.csproj">
+      <Project>{dcedd915-270b-47ba-8993-30b692b739d5}</Project>
+      <Name>MDIForms4AnyBook_Huang0045</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WinForm4GradeCR_Huang0045\WinForm4GradeCR_Huang0045.csproj">
+      <Project>{b266e3c8-bc64-440f-b2e9-07abb3b6ff40}</Project>
+      <Name>WinForm4GradeCR_Huang0045</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\WinForm4GradeQuery_Huang0045\WinForm4GradeQuery_Huang0045.csproj">
+      <Project>{c3920d28-7062-4325-9521-41a288ca8efd}</Project>
+      <Name>WinForm4GradeQuery_Huang0045</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

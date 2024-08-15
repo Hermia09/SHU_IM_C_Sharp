@@ -1,0 +1,7 @@
+E:\C#\W10_inClass\Generic_Hua0045\Generics_hua0045\bin\Debug\Generics_hua0045.exe.config
+E:\C#\W10_inClass\Generic_Hua0045\Generics_hua0045\bin\Debug\Generics_hua0045.exe
+E:\C#\W10_inClass\Generic_Hua0045\Generics_hua0045\bin\Debug\Generics_hua0045.pdb
+E:\C#\W10_inClass\Generic_Hua0045\Generics_hua0045\obj\Debug\Generics_hua0045.csprojAssemblyReference.cache
+E:\C#\W10_inClass\Generic_Hua0045\Generics_hua0045\obj\Debug\Generics_hua0045.csproj.CoreCompileInputs.cache
+E:\C#\W10_inClass\Generic_Hua0045\Generics_hua0045\obj\Debug\Generics_hua0045.exe
+E:\C#\W10_inClass\Generic_Hua0045\Generics_hua0045\obj\Debug\Generics_hua0045.pdb

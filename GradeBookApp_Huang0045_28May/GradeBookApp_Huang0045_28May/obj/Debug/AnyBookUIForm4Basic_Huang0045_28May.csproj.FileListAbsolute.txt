@@ -1,0 +1,9 @@
+F:\C#\W14_inClass\GradeBookApp_Huang0045_28May\GradeBookApp_Huang0045_28May\bin\Debug\GradeBookApp_Huang0045_28May.exe.config
+F:\C#\W14_inClass\GradeBookApp_Huang0045_28May\GradeBookApp_Huang0045_28May\bin\Debug\GradeBookApp_Huang0045_28May.exe
+F:\C#\W14_inClass\GradeBookApp_Huang0045_28May\GradeBookApp_Huang0045_28May\bin\Debug\GradeBookApp_Huang0045_28May.pdb
+F:\C#\W14_inClass\GradeBookApp_Huang0045_28May\GradeBookApp_Huang0045_28May\obj\Debug\GradeBookApp_Huang0045_28May.FrmProfileBasic.resources
+F:\C#\W14_inClass\GradeBookApp_Huang0045_28May\GradeBookApp_Huang0045_28May\obj\Debug\GradeBookApp_Huang0045_28May.Properties.Resources.resources
+F:\C#\W14_inClass\GradeBookApp_Huang0045_28May\GradeBookApp_Huang0045_28May\obj\Debug\AnyBookUIForm4Basic_Huang0045_28May.csproj.GenerateResource.cache
+F:\C#\W14_inClass\GradeBookApp_Huang0045_28May\GradeBookApp_Huang0045_28May\obj\Debug\AnyBookUIForm4Basic_Huang0045_28May.csproj.CoreCompileInputs.cache
+F:\C#\W14_inClass\GradeBookApp_Huang0045_28May\GradeBookApp_Huang0045_28May\obj\Debug\GradeBookApp_Huang0045_28May.exe
+F:\C#\W14_inClass\GradeBookApp_Huang0045_28May\GradeBookApp_Huang0045_28May\obj\Debug\GradeBookApp_Huang0045_28May.pdb

@@ -1,0 +1,10 @@
+﻿[*.cs]
+
+# CS0436: 類型與所匯入的類型衝突
+dotnet_diagnostic.CS0436.severity = none
+
+# IDE0044: 新增唯讀修飾元
+dotnet_diagnostic.IDE0044.severity = none
+
+# IDE0052: 刪除未讀取的私用成員
+dotnet_diagnostic.IDE0052.severity = none

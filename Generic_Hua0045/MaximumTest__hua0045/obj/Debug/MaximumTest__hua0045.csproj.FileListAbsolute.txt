@@ -1,0 +1,6 @@
+E:\C#\W10_inClass\Generic_Hua0045\MaximumTest__hua0045\bin\Debug\MaximumTest__hua0045.exe.config
+E:\C#\W10_inClass\Generic_Hua0045\MaximumTest__hua0045\bin\Debug\MaximumTest__hua0045.exe
+E:\C#\W10_inClass\Generic_Hua0045\MaximumTest__hua0045\bin\Debug\MaximumTest__hua0045.pdb
+E:\C#\W10_inClass\Generic_Hua0045\MaximumTest__hua0045\obj\Debug\MaximumTest__hua0045.csproj.CoreCompileInputs.cache
+E:\C#\W10_inClass\Generic_Hua0045\MaximumTest__hua0045\obj\Debug\MaximumTest__hua0045.exe
+E:\C#\W10_inClass\Generic_Hua0045\MaximumTest__hua0045\obj\Debug\MaximumTest__hua0045.pdb
